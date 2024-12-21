@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/gcmcg/bootdev/asteroids/venv
+set -gx VIRTUAL_ENV /home/gcmcg/workspace/github.com/g-mcguire/asteroids/venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH

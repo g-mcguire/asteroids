@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV=/home/gcmcg/bootdev/asteroids/venv
+VIRTUAL_ENV=/home/gcmcg/workspace/github.com/g-mcguire/asteroids/venv
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
